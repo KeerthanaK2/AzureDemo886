@@ -15,7 +15,7 @@ namespace SampleWebAppKeerthuAzureProject.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Keerthana's page.";
+            ViewBag.Message = "Keerthana's page.Updated!";
 
             return View();
         }
